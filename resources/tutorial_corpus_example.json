@@ -1,0 +1,31 @@
+{
+  "tags": [
+    {
+      "end": 32,
+      "start": 19,
+      "tag": "PER"
+    },
+    {
+      "end": 32,
+      "start": 6,
+      "tag": "NCHUNK"
+    },
+    {
+      "end": 152,
+      "start": 143,
+      "tag": "NCHUNK"
+    },
+    {
+      "end": 225,
+      "start": 211,
+      "tag": "NCHUNK"
+    },
+    {
+      "end": 79,
+      "start": 45,
+      "tag": "NCHUNK"
+    }
+  ],
+  "id": "train_253",
+  "text": "Selon l'ethnologue Maurice Duval, \u00ab dire que ce mouvement de la gauche radicale est \u00ab une secte \u00bb, ce n'est pas argumenter l\u00e9gitimement contre ses id\u00e9es, mais c'est sugg\u00e9rer qu'il est malfaisant, malsain et que sa disparition serait souhaitable \u00bb."
+}
