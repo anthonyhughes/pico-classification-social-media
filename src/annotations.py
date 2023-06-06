@@ -6,6 +6,7 @@ LABEL_TO_ID = {
     **{f'I-{k}': 2 * v for k, v in TAG_TO_ID.items()}
 }
 ID_TO_LABEL = {v: k for k, v in LABEL_TO_ID.items()}
+N_LABELS = len(ID_TO_LABEL)
 
 
 def label_lookup(param):
